@@ -110,3 +110,7 @@ full_crypto = [
 	"twox-hash",
 	"runtime-interface/disable_target_static_assertions",
 ]
+
+just_compile = [
+  "runtime-interface/disable_target_static_assertions",
+]
